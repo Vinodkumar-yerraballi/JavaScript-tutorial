@@ -46,3 +46,4 @@ console.log(typeof nullValues)  // we get the output is object
 // wihout given the values
 let user_values
 console.log(user_values) // undefined
+
