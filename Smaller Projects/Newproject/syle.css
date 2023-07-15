@@ -1,0 +1,12 @@
+.button{
+height: 30mh;
+width: 90px;
+background-color: rgba(145, 136, 118, 0.753);
+border-radius: 20%;
+font-size: 50mh;
+
+}
+
+*{
+    background-color: aqua;
+}
